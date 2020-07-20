@@ -1,0 +1,5 @@
+git clone link github
+
+Folder : git add .
+	 git commit "commit first"
+	 git push
